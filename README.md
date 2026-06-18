@@ -1,2 +1,2 @@
-# QwenPaw-Harmony-APP
-QwenPaw Harmony APP
+# QwenPaw-HarmonyOS-APP
+QwenPaw HarmonyOS APP
