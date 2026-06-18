@@ -147,6 +147,19 @@ QwenPaw-OH/
 - **鸿蒙通知**：AI 回复完成后通过系统通知提醒
 - **折叠屏适配**：自适应折叠态/展开态布局
 
+
+## 截图预览
+
+<div align="center">
+
+| | | | |
+|---|---|---|---|
+<img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_1.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_2.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_3.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_4.jpg' width='170'/> |
+<img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_5.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_6.jpg' width='170'/> | <img src='https://raw.githubusercontent.com/R3lyW1nd/QwenPaw-Android-APP/main/screenshots/screenshot_7.jpg' width='170'/> | |
+
+</div>
+
+
 ## API 对接说明
 
 应用对接 QwenPaw RESTful API，完整文档请参考 [QwenPaw RESTful API 文档](https://qwenpaw.agentscope.io/docs/api-tutorial)。
